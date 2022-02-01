@@ -65,7 +65,7 @@ http://st03.dlf.de/dlf/03/128/mp3/stream.mp3
 #EXTINF:-1 tvg-name="hr-info" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hrinfo.png",hr-info
 http://hr-hrinfo-live.cast.addradio.de/hr/hrinfo/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="YOU FM" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png",YOU FM
-http://hr-youfm-live.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/hr/youfm/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="YOU FM Club" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png",YOU FM Club
 http://hr-youfm-club.cast.addradio.de/hr/youfm/club/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="YOU FM Just Music" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png",YOU FM Just Music
