@@ -72,3 +72,5 @@ http://hr-youfm-club.cast.addradio.de/hr/youfm/club/mp3/128/stream.mp3
 http://hr-youfm-justmusic.cast.addradio.de/hr/youfm/justmusic/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="YOU FM Sounds" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png",YOU FM Sounds
 http://hr-youfm-sounds.cast.addradio.de/hr/youfm/sounds/mp3/128/stream.mp3
+#EXTINF:-1 tvg-name="On-Dance" group-title="Deutschland" radio="true" tvg-logo="https://www.radio.de/images/broadcasts/63/50/111895/1/c300.png",On-Dance
+http://0n-dance.radionetz.de/0n-dance.mp3
