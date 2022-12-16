@@ -74,3 +74,8 @@ http://hr-youfm-justmusic.cast.addradio.de/hr/youfm/justmusic/mp3/128/stream.mp3
 http://hr-youfm-sounds.cast.addradio.de/hr/youfm/sounds/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="On-Dance" group-title="Deutschland" radio="true" tvg-logo="https://www.radio.de/images/broadcasts/63/50/111895/1/c300.png",On-Dance
 http://0n-dance.radionetz.de/0n-dance.mp3
+#EXTINF:-1 tvg-name="1LIVE diggi" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1livediggi.png",1LIVE diggi
+http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
+#EXTINF:-1 tvg-name="sunshine live" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",sunshine live
+http://sunshinelive.hoerradar.de/sunshinelive-live-mp3-hq
+
